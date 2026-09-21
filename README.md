@@ -1,16 +1,24 @@
-## Hi there 👋
+# Ciao, sono Gennaro Emanuele Di Costanzo 👋
 
-<!--
-**Gedico/Gedico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Laureando in Informatica** | 💻 **Passionato di Programmazione & Software Engineering**
 
-Here are some ideas to get you started:
+Benvenuto sul mio profilo GitHub! Mi sto specializzando nello sviluppo software (Full-Stack / Backend) e nella progettazione di architetture pulite. Utilizzo questo spazio per condividere i miei progetti personali e accademici.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Strumenti
+
+- **Linguaggi:** Java, Python, C, JavaScript, SQL
+- **Database & Backend:** PostgreSQL, SQLite, REST API
+- **Tools & OS:** Git, Linux, Bash, VS Code
+
+---
+
+### 🚀 Progetti in Evidenza
+- 📦 **[RetroGame Inventory Manager]** *(In fase di sviluppo)* — Web App Full-Stack per la gestione di inventario, tracciamento margini e integrazione API ufficiali IGDB per il settore retrogaming.
+
+---
+
+### 📬 Contatti
+- **LinkedIn:** [Gennaro Emanuele Di Costanzo](https://www.linkedin.com/in/gennaro-emanuele-di-costanzo-952810385/)
+- **Email:** gennaro.emanuele.dicostazno@gmail.com
