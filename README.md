@@ -16,7 +16,7 @@ Benvenuto sul mio profilo GitHub! Mi sto specializzando nello sviluppo software 
 
 ### 🚀 Progetti in Evidenza
 - 🏠 **[dietiestate25](https://github.com/Gedico/dietiestate25)** — Web App Full-Stack per la gestione di inserzioni immobiliari con funzionalità di ricerca avanzata, filtri e autenticazione utenti.
-- 📦 **[RetroGame Inventory Manager]** *(In fase di sviluppo)* — Web App Full-Stack per la gestione di inventario, tracciamento margini e integrazione API ufficiali IGDB per il settore retrogaming.
+- 📦 **[RetroGame Inventory Manager](https://github.com/Gedico/retrogame-inventory-manager)** *(In fase di sviluppo)* — Web App Full-Stack per la gestione di inventario, tracciamento margini e integrazione API ufficiali IGDB per il settore retrogaming.
 
 ---
 
